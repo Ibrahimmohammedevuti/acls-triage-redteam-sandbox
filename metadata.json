@@ -1,0 +1,6 @@
+{
+  "name": "MedRedTeam: ACLS/PALS & Acute Triage Adversarial Prompt Sandbox",
+  "description": "Interactive clinical AI safety and medical red-teaming sandbox by Dr. Ibrahim Mohammed (MD) for evaluating adversarial vulnerabilities, sycophancy, weight-based dosing traps, and deterministic ACLS/PALS triage guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
